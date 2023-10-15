@@ -1,9 +1,9 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "com.teampotato.fastfight.mixin",
+  "package": "com.teampotato.autochangefight.mixin",
   "compatibilityLevel": "JAVA_17",
-  "refmap": "fastfight.refmap.json",
+  "refmap": "autochangefight.refmap.json",
   "injectors": {
     "defaultRequire": 1
   },

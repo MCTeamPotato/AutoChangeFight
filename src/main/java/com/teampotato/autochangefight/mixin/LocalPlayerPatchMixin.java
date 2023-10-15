@@ -1,4 +1,4 @@
-package com.teampotato.fastfight.mixin;
+package com.teampotato.autochangefight.mixin;
 
 import net.minecraft.client.player.LocalPlayer;
 import org.spongepowered.asm.mixin.Mixin;
