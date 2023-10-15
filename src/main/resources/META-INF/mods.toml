@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="LGPL-v3"
+
+[[mods]]
+modId="fastfight"
+version="${file.jarVersion}"
+displayName="FastFight"
+authors="TeamPotato"
+description='''
+A Minecraft mod.
+'''
